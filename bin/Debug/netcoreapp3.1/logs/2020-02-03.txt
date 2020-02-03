@@ -1,0 +1,12 @@
+10:36:29 [Info] Discord: Discord.Net v2.1.1 (API v6)
+10:36:30 [Verbose] Rest: GET voice/regions: 679,72 ms
+10:36:30 [Verbose] Rest: GET users/@me: 161,72 ms
+10:36:31 [Info] Gateway: Connecting
+10:36:31 [Verbose] Rest: GET gateway: 22,11 ms
+10:36:31 [Info] Gateway: Connected
+10:36:31 [Verbose] Gateway: Connected to мой сервер
+10:36:31 [Verbose] Gateway: Connected to Разумистический альянс
+10:36:31 [Verbose] Gateway: Connected to Bot_land
+10:36:32 [Info] Gateway: Ready
+10:37:04 [Verbose] Rest: POST channels/607645645653671940/messages: 235,55 ms
+10:37:04 [Verbose] Command: Executed "whoisgay" for qweuioer#6900 in Разумистический альянс/общий
